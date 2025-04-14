@@ -1,5 +1,7 @@
 # M-Calculator Version 3
 
+This project has been deprecated. Use [M-Calculator Version 4](https://github.com/EHMD28/m-calc_ver.4) instead.
+
 ## About
 A CLI tool for evaluating mathematical expressions and then printing the result.
 The program is written entirely in C with no dependencies and is contained in a
